@@ -5,6 +5,8 @@ walk the dependency graph to generate json output that can be fed into
 
 [![build status](https://secure.travis-ci.org/substack/module-deps.png)](http://travis-ci.org/substack/module-deps)
 
+[![browser support](https://ci.testling.com/substack/module-deps.png)](https://ci.testling.com/substack/module-deps)
+
 # example
 
 ``` js
